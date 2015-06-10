@@ -4,6 +4,3 @@
 [submodule "submod2"]
 	path = submod2
 	url = https://github.com/avrohith/SubModuleTwo.git
-[submodule "SubModuleTwo"]
-	path = SubModuleTwo
-	url = https://github.com/avrohith/SubModuleTwo.git
